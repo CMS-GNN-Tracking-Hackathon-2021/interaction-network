@@ -5,8 +5,7 @@ This repo contains a version of the interaction network developed by Gage DeZoor
 
 This repo is split into the following sections: 
 
-## graph-building
+## graph_construction
 
-## model-training
+## models
 
-## evaluation 
