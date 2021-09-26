@@ -3,6 +3,10 @@
 mkdir cmsgnn 
 git clone 
 
+python3 -m venv cmsgnn_venv
+source cmsgnn_venv/bin/activate
+
+
 # build graph 
 cd graph_construction 
 
