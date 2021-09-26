@@ -1,7 +1,8 @@
 # quick start
 ```
 mkdir cmsgnn 
-git clone 
+cd cmsgnn 
+git clone https://github.com/CMS-GNN-Tracking-Hackathon-2021/interaction-network
 
 python3 -m venv cmsgnn_venv
 source cmsgnn_venv/bin/activate
