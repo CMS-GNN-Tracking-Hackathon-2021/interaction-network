@@ -40,7 +40,7 @@ Code for the graph neural net
 ## plotting 
 Evaluation plots 
 
-##Eos space
+## Eos space
 The EOS space for the hackathon, with prepared ntuples, csv files, built graphs, trained neural nets: 
 /eos/cms/store/group/ml/GNNTrackingHackathon
 
