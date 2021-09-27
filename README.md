@@ -15,6 +15,7 @@ pip install -r requirements-cpu-linux.txt
 
 # build graph 
 cd graph_construction 
+# in some of the config files, you will have to change the directory to the eos space where the data is 
 python build_graph.py config/select config file 
 
 # run interaction network
