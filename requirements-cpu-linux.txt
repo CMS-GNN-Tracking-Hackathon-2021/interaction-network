@@ -1,0 +1,20 @@
+-r requirements.txt
+
+# XGBOOST
+https://s3-us-west-2.amazonaws.com/xgboost-nightly-builds/xgboost-1.3.0_SNAPSHOT%2B68c55a37d9bb680fe435f1d011e5fea62be97d22-py3-none-manylinux2010_x86_64.whl
+
+# PYTORCH
+torch==1.7.1+cpu
+torchvision==0.8.2+cpu
+torchaudio==0.7.2
+-f https://download.pytorch.org/whl/torch_stable.html
+
+# PYTORCH-GEOMETRIC
+https://pytorch-geometric.com/whl/torch-1.7.0/torch_cluster-latest+cpu-cp38-cp38-linux_x86_64.whl
+https://pytorch-geometric.com/whl/torch-1.7.0/torch_scatter-latest+cpu-cp38-cp38-linux_x86_64.whl
+https://pytorch-geometric.com/whl/torch-1.7.0/torch_sparse-latest+cpu-cp38-cp38-linux_x86_64.whl
+https://pytorch-geometric.com/whl/torch-1.7.0/torch_spline_conv-latest+cpu-cp38-cp38-linux_x86_64.whl
+torch-geometric>=1.6.3
+~                                                                                                                                                           
+~                                                                                                                                                           
+~                                    
