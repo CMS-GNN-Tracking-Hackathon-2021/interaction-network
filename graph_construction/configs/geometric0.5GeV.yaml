@@ -1,0 +1,10 @@
+# Graph building configuration
+input_dir: /vols/cms/liv/cmsgnn/data/ntuple_PU200_numEvent1000/
+#input_dir = /eos/cms/store/group/ml/GNNTrackingHackathon/data
+output_dir: ../output/PU200/0.5GeV/
+
+selection:
+    pt_min: 0.5 # GeV
+    phi_slope_max: 0.085
+    z0_max: 50
+    eta_range: [-5, 5]
