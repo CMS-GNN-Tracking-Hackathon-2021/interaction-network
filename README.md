@@ -44,3 +44,6 @@ Evaluation plots
 The EOS space for the hackathon, with prepared ntuples, csv files, built graphs, trained neural nets: 
 /eos/cms/store/group/ml/GNNTrackingHackathon
 
+## Building graphs in CMSSW
+You can refer to this code as a starting point for porting the graph builidng to CMSSW. It does graph building in C++. https://github.com/leviBlinder/Graph_Construction_for_TrackML-C/blob/main/graph_construction/build_geometric.cc
+
